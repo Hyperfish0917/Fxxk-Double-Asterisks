@@ -1,6 +1,6 @@
 # **Fxxk Double Asterisks (AI Markdown Fixer)**
 
-[🇺🇸 English](https://www.google.com/search?q=./README_EN.md) | [🇨🇳 中文](https://www.google.com/search?q=./README.md)
+[🇺🇸 English](https://github.com/Hyperfish0917/Fxxk-Double-Asterisks/blob/main/README_EN.md) | [🇨🇳 中文](https://github.com/Hyperfish0917/Fxxk-Double-Asterisks/raw/refs/heads/main/README.md)
 
 A lightweight Tampermonkey user script designed to fix occasional Markdown rendering failures on major AI websites (such as Gemini, ChatGPT, Grok, NotebookLM, etc.).
 
@@ -17,8 +17,8 @@ When AI-generated content displays unrendered \*\* characters (which usually rep
 ## **🚀 Installation**
 
 1. Install the **Tampermonkey** browser extension (Chrome / Edge / Firefox / Safari).  
-2. [Click here to install the script](https://www.google.com/search?q=https://raw.githubusercontent.com/YourUsername/remove-double-asterisks/main/remove_asterisks.js) (Please replace this link with the Raw link of the JS file in your repository).  
-3. Click **Install** in the Tampermonkey popup window.
+2. [Click here to download the script](https://github.com/Hyperfish0917/Fxxk-Double-Asterisks/raw/refs/heads/main/%E5%8E%BB%E6%8E%89%E7%83%A6%E4%BA%BA%E7%9A%84%E6%98%9F%E5%8F%B7%20Fxxk%20Double%20Asterisks%20(Fix%20AI%20Markdown%20Fail)-1.0.user.js) .  
+3. Install script in the  **Tampermonkey** .
 
 ## **🛠️ Usage**
 
@@ -28,4 +28,4 @@ Open any webpage (especially AI chat interfaces), and if any unrendered \*\* cha
 
 ## **📄 License**
 
-This project is licensed under the [MIT License](https://www.google.com/search?q=LICENSE).
+This project is licensed under the [MIT License](https://github.com/Hyperfish0917/Fxxk-Double-Asterisks/raw/refs/heads/main/LICENSE).

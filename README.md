@@ -1,6 +1,6 @@
 # **去掉烦人的星号 (AI Markdown Fixer)**
 
-[English](https://github.com/Hyperfish0917/Fxxk-Double-Asterisks/blob/main/README_EN.md) | [中文](https://github.com/Hyperfish0917/Fxxk-Double-Asterisks/blob/main/README.md)
+[English](https://github.com/Hyperfish0917/Fxxk-Double-Asterisks/blob/main/README_EN.md) | [中文](https://github.com/Hyperfish0917/Fxxk-Double-Asterisks/raw/refs/heads/main/README.md)
 
 这是一个轻量级的 Tampermonkey (油猴) 脚本，用于解决各大 AI 网站（如 Gemini, ChatGPT, Grok, NotebookLM 等）偶尔出现的 Markdown 渲染失败问题。
 
@@ -17,8 +17,8 @@
 ## **🚀 安装方法**
 
 1. 安装浏览器扩展 **Tampermonkey** (Chrome / Edge / Firefox / Safari)。  
-2. [点击这里安装脚本](https://github.com/Hyperfish0917/Fxxk-Double-Asterisks/raw/refs/heads/main/%E5%8E%BB%E6%8E%89%E7%83%A6%E4%BA%BA%E7%9A%84%E6%98%9F%E5%8F%B7%20Fxxk%20Double%20Asterisks%20(Fix%20AI%20Markdown%20Fail)-1.0.user.js) 。  
-3. 在弹出的 Tampermonkey 窗口中点击 **安装**。
+2. [点击这里下载脚本](https://github.com/Hyperfish0917/Fxxk-Double-Asterisks/raw/refs/heads/main/%E5%8E%BB%E6%8E%89%E7%83%A6%E4%BA%BA%E7%9A%84%E6%98%9F%E5%8F%B7%20Fxxk%20Double%20Asterisks%20(Fix%20AI%20Markdown%20Fail)-1.0.user.js) 。  
+3. 在 **Tampermonkey** 中安装脚本。
 
 ## **🛠️ 使用说明**
 

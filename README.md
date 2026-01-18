@@ -28,4 +28,4 @@
 
 ## **📄 许可证**
 
-本项目采用 [MIT License](https://www.google.com/search?q=LICENSE) 开源。
+本项目采用 [MIT License](https://github.com/Hyperfish0917/Fxxk-Double-Asterisks/raw/refs/heads/main/LICENSE) 开源。
